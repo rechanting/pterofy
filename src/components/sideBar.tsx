@@ -74,7 +74,7 @@ export default function SideBar() {
                         <section className="sidebar-footer justify-end bg-gray-2 pt-2">
                             <div className="divider my-0"></div>
                             <div className="transition-all dropdown z-50 flex h-fit w-full cursor-pointer hover:bg-gray-4">
-                                <label className="whites mx-2 flex h-fit w-full cursor-pointer p-0 hover:bg-gray-4" tabIndex="0">
+                                <label className="whites mx-2 flex h-fit w-full cursor-pointer p-0 hover:bg-gray-4">
                                     <div className="flex flex-row gap-4 p-4">
                                         <div className="flex items-center space-x-4">
                                             <div className="avatar-square avatar avatar-md">
