@@ -10,9 +10,9 @@ export default function SideBar() {
                     <label htmlFor="sidebar-mobile-fixed" className="sidebar-overlay"></label>
                     <aside className="sidebar sidebar-fixed-left sidebar-mobile h-full justify-start max-sm:fixed max-sm:-translate-x-full">
                         <section className="sidebar-title items-center p-4">
-                            <img src="../../public/orbula.svg" className="w-12" alt="" />
+                            <img src="logo.svg" className="w-12" alt="" />
                             <div className="flex flex-col">
-                                <span>Orbula</span>
+                                <span>Pterofy</span>
                                 <span className="text-xs font-normal text-content2">Client Panel</span>
                             </div>
                         </section>
